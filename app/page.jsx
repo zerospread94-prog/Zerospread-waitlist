@@ -1199,8 +1199,7 @@ export default function WaitlistPage() {
             <span className="inline-flex items-center gap-2.5 text-xs font-bold px-5 py-2 rounded-full"
               style={{ background: T.offWhite, color: T.gray500, border: `1px solid ${T.gray100}` }}>
               <span className="w-2 h-2 rounded-full" style={{ background: T.green, animation: "candleFloat 2s ease-in-out infinite alternate" }} />
-              الإطلاق الرسمي — 05 / 05 / 2029
-            </span>
+              الإطلاق الرسمي — 05 / 05 / 2026            
           </div>
 
           <div className="fade-d1 text-center mb-4">
