@@ -1118,7 +1118,7 @@ function ToolsOverlayContent({ onRegister }) {
 /* ═══════════════════════════════════════════
    PAGE
    ═══════════════════════════════════════════ */
-const LAUNCH = new Date("2025-05-05T00:00:00+03:00").getTime();
+const LAUNCH = new Date("2026-05-05T00:00:00+03:00").getTime();
 
 export default function WaitlistPage() {
   const countdown = useCountdown(LAUNCH);
